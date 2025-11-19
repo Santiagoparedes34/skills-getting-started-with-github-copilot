@@ -14,3 +14,16 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+## How to Create and Publish a New Git Branch
+
+To create and publish a new branch called `accelerate-with-copilot`, follow these steps:
+
+```bash
+# Create and switch to the new branch
+git checkout -b accelerate-with-copilot
+
+# Push the branch to GitHub
+git push -u origin accelerate-with-copilot
+```
+
+Your new branch is now available on GitHub!
